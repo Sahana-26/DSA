@@ -16,6 +16,5 @@ a.sort()
 low=0
 high=len(a)-1
 x=int(input("enter element to be searched: "))
-
 print(binary_search(a,low,high,x))
 

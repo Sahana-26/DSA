@@ -7,7 +7,6 @@ def kth_min_max(a,k,n):
     print("k'th min: ", a[k-1])
     print("k'th max: ", a[n-k])
 
-
 arr=[]
 n= int(input("enter number of digits: "))
 print("enter digit: ")
